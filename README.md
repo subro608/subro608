@@ -12,14 +12,12 @@
   <img align="left" alt="Subhrajit Dey's LinkedIN profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=subro608.visitor-badge)
-
 <br />
 
 I am an undergraduate student researcher at Jadavpur University working on fuzzy integral-based ensemble methods for image classification. I am interested in doing research on geometric deep learning, human pose estimation, image/video understanding, and also 3D vision. Currently looking for research collaborations on the above-mentioned topics.
 
 
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="420" />
   
 - 💼 For research collaboration? do reach, [email](subhrajitdey.agt@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help;
