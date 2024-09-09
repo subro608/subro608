@@ -10,15 +10,18 @@
 ### Connect with me:
 
 [<img align="left" alt="Subhrajit | ResearchGate" width="22px" src="https://cloud.githubusercontent.com/assets/10654684/6204302/3c0858ae-b546-11e4-852c-6c747bbdc3f3.png" />](https://www.researchgate.net/profile/Subhrajit-Dey-3)
+&nbsp;
 [<img align="left" alt="Subhrajit | Google Scholar" width="22px" src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" />](https://scholar.google.com/citations?user=qF5U1hIAAAAJ&hl=en)
+&nbsp;
 [<img align="left" alt="Subhrajit | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/subhrajit608)
+&nbsp;
 [<img align="left" alt="Subhrajit | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/subhrajit-dey-7a2784166/)
+&nbsp;
 
 <br />
 <br />
-
 ### A bit more about me...
-- 💼 Interested in collaborating on research? Feel free to reach out: [email](mailto:subhrajitdey.agt@gmail.com)
+- 💼 Interested in collaborating on research? Feel free to reach out: [email](mailto:sd5963@nyu.edu)
 - 💬 Happy to chat about anything related to my research interests!
 
 **Languages and Tools:**
