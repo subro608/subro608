@@ -13,9 +13,9 @@
 &nbsp;
 [<img align="left" alt="Subhrajit | Google Scholar" width="22px" src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" />](https://scholar.google.com/citations?user=qF5U1hIAAAAJ&hl=en)
 &nbsp;
-[<img align="left" alt="Subhrajit | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/subhrajit608)
+(https://twitter.com/subhrajit608)
 &nbsp;
-[<img align="left" alt="Subhrajit | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/subhrajit-dey-7a2784166/)
+(https://www.linkedin.com/in/subhrajit-dey-7a2784166/)
 &nbsp;
 
 <br />
