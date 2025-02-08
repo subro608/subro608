@@ -25,27 +25,30 @@
 - 💬 Happy to chat about anything related to my research interests!
 
 
-### 📊 My GitHub Contributions
+### 📈 Contribution Stats
 
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subro608&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+<!-- Combined Public & Private Contributions -->
+![Subhrajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=subro608&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide=stars&custom_title=Public+%2B+Private+Contributions)
 
-<!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subro608&theme=radical)
+<!-- Compact Language Stats -->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subro608&layout=compact&theme=radical&count_private=true&include_all_commits=true)
 
-<!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subro608&layout=compact&theme=radical)
+<!-- Current Streak with All Contributions -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=subro608&theme=radical&count_private=true)
 
-<!-- Profile Views Counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=subro608&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<!-- Total Contributions and Commits -->
+[![Subhrajit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subro608&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph%20(All%20Repositories))](https://github.com/subro608/github-readme-activity-graph)
 
-<!-- GitHub Trophies -->
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=subro608&theme=radical&row=1" alt="GitHub Trophies" />
-</p>
+<!-- Alternative Stats Card with Different Metrics -->
+![Alternative Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subro608&theme=radical)
 
+<!-- Weekly Contribution Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subro608&theme=radical&utcOffset=8" />
+
+To ensure this captures all contributions:
+1. Make sure your GitHub email is verified
+2. Link all your commit emails in GitHub settings
+3. Enable "Include private contributions on my profile" in your GitHub profile settings
 
 **Languages and Tools:**
 
