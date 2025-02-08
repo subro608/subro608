@@ -50,12 +50,4 @@ To ensure this captures all contributions:
 2. Link all your commit emails in GitHub settings
 3. Enable "Include private contributions on my profile" in your GitHub profile settings
 
-**Languages and Tools:**
 
-![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
-![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
-![MySQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png)
-![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
-
-### Tags:
-#ComputerVision #MachineLearning #DeepLearning #LargeLanguageModels #NYUTandon #AIResearch
