@@ -24,6 +24,29 @@
 - 💼 Interested in collaborating on research? Feel free to reach out: [email](mailto:sd5963@nyu.edu)
 - 💬 Happy to chat about anything related to my research interests!
 
+
+### 📊 My GitHub Contributions
+
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subro608&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subro608&theme=radical)
+
+<!-- Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subro608&layout=compact&theme=radical)
+
+<!-- Profile Views Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=subro608&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=subro608&theme=radical&row=1" alt="GitHub Trophies" />
+</p>
+
+
 **Languages and Tools:**
 
 ![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
