@@ -71,9 +71,7 @@
 </a>
 
 <!-- Current Streak simplified -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=subro608&theme=radical" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subro608&theme=radical)](https://git.io/streak-stats)
 
 ## Recent Projects
 
