@@ -70,9 +70,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subro608&layout=compact&langs_count=8&hide=html,css&theme=radical" />
 </a>
 
-<!-- Current Streak simplified -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subro608&theme=radical)](https://git.io/streak-stats)
-
 ## Recent Projects
 
 ### Fashay: A platform for democratizing Fashion (Oct 2024 - Dec 2024)
