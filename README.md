@@ -80,7 +80,7 @@
 - Deployed on AWS
 - 🔗 [Website Link](https://www.thefashay.com/)
 
-### SocrateScrolls: AI-Driven University Platform (Feb 2024 - Present)
+### Curio: AI-Driven University Platform (Feb 2024 - Present)
 - Built an AI-powered university at the Cornell AI Hackathon, featuring an AI professor, AI teaching assistant, and AI auditor working together to evaluate students and personalize learning
 - The AI professor teaches using uploaded slides/PDFs, the AI teaching assistant generates quizzes, and the AI auditor evaluates student progress, adjusting teaching style accordingly
 - Implemented the backend with FastAPI, LangChain, and Python, and built the frontend with React
