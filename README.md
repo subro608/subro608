@@ -45,9 +45,4 @@
 <!-- Weekly Contribution Stats -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subro608&theme=radical&utcOffset=8" />
 
-To ensure this captures all contributions:
-1. Make sure your GitHub email is verified
-2. Link all your commit emails in GitHub settings
-3. Enable "Include private contributions on my profile" in your GitHub profile settings
-
 
